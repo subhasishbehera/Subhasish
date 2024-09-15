@@ -1,0 +1,93 @@
+<html>
+    <head>
+        <title>timepass website</title>
+        <style>
+            header {
+                background-color: rgb(61, 3, 3); 
+                padding: 20px; 
+                text-align: center; 
+                box-shadow: 4px 4px 4px 8px rgba(0, 0, 0, 0.3); 
+            }
+            
+            h1{
+                font-family: 'Times New Roman', Times, serif;
+                font-size: 40px; 
+                color: rgb(185, 185, 185);
+                font-style: italic;
+            }
+
+            h3{
+                text-align: center;
+                font-family: 'Times New Roman', Times, serif;
+                color: rgb(185, 185, 185);
+                font-style: italic;
+            }
+            
+            body{
+                background-color: rgb(88, 14, 14);
+            }
+
+            img{
+                text-align: center;
+                height: 450px; 
+                box-shadow: rgba(0, 0, 0, 0.3);
+                transition: transform 0.6s ease;
+            }
+
+            img:hover{
+                transform: scale(1.03);
+                opacity: 0.8;
+            }
+
+            button{
+                background-color: rgb(167, 125, 66);
+                font-family: 'Courier New', Courier, monospace;
+                color: rgb(255, 255, 255);
+                transition: transform 0.3s ease;
+                padding: 10px;
+            }
+
+            button:hover{
+                transform: scale(1.05);
+                background-color: rgb(143, 106, 58) ;
+            }
+            
+            h4::before{
+                margin-right: 10px;
+                content:'';
+            }
+            
+            h4{
+                text-align: left;
+                color:  rgb(185,185,185);
+                font-family: 'Times New Roman', Times, serif;
+                font-size: 20px;
+                margin: 0;
+            }
+
+            footer{
+                background-color: rgb(63, 5, 5);
+                padding: 2px;            
+                justify-content: space-between;
+            }
+
+        </style>
+    </head>
+    <header>
+        <h1>LUXURY</h1>
+    </header>
+    <body>
+        <h3>Elegance is not a dispensable luxury but a factor that decides between success and failure.</h3>
+        <center><p><img src="https://i.pinimg.com/originals/d8/49/06/d84906ed4733aed31283517c69abb8af.jpg"></p></center>
+        <center><p><a href="https://youtu.be/VzqD588-uQU?si=XjN0pRjZ96nvFgYJ" target="">The Essence Of Luxury</a></p></center>
+        <center>
+        <a href="https://www.ysl.com/en-us" target=""><button>Yves Saint Laurent</button></a>
+        <a href="https://www.ralphlauren.global/in/en?utm_subchannel=brandsearch&utm_source=google&utm_medium=paidsearch&utm_campaign=brand&utm_term=core_exact&utm_content=cid20808332350_crid708222177798_kwralph%20lauren_tidkwd-11662081_pid{productid}&s_kwcid=AL!6316!3!708222177798!e!!g!!ralph%20lauren&label=SummerShop-2024&gad_source=1&gclid=Cj0KCQjwi5q3BhCiARIsAJCfuZkvN3ZC536_SwZvWtk3l6wb-4I_nkDfEvbLk6ywplz-55fgE39Ob2gaArK5EALw_wcB" target=""><button>Ralph Lauren</button></a>
+        <p></p>
+        <p></p>
+    </center>
+    </body>
+    <footer>
+        <h4>☏  🏠︎  ✆</h4>
+    </footer>
+</html>
